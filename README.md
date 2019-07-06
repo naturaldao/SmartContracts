@@ -1,2 +1,2 @@
 # NaturalDAO
-Smart contracts and more
+Smart contracts
